@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidRopil
-- 👀 I’m interested in 3D modiling (SolidWorks, NX), programming (Pyton), SPREADSHEET (MAtLab, Excel)
+- 👀 I’m interested in 3D modiling (SolidWorks, NX), programming (Pyton), Spreadsheet (MAtLab, Excel)
 - 🌱 I’m currently learning automotive engineering
 - 💞️ I’m looking to collaborate on 3D modiling and programiongn 
 - 📫 How to reach me mail: daviropil7@gmail.com
